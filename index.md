@@ -1,3 +1,53 @@
+## General Medicine Consultation
+```markdown
+# ID:
+# RFR:
+
+# Past Medical History:
+
+# Medications:
+
+# Allergies:
+
+# Social History: 
+[Living status]. [Baseline functional status]. [Alcohol use]. [Smoking status]. [Illicit drug use].
+
+# HPI:
+
+# Physical Exam:
+Vitals on triage: BP, HR, RR, T, SpO2
+Vitals on assessment [time] : BP, HR, RR, T, SpO2
+[Distress]. Alert and oriented x [number]
+HEENT: [pupils] [EOM] [mucous membranes] [oropharynx] [lymphadenopathy]
+CVS: [S1, S2] [S3, S4, murmurs] [JVP, volume status]
+Resp: [GAEB, any adventitious sounds]
+Abdo: [soft, nontender, nondistended]
+Neuro: [screening]
+LE: [edema]
+
+# Investigations:
+
+# Summary:
+
+# Plan:
+
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/akarir/myconsult/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
